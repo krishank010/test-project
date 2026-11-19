@@ -1,0 +1,25 @@
+
+body{background-color: rgb(79, 183, 197);}
+h1, h3{color: white;}
+
+
+h4, h2{color: blueviolet;}
+
+p{color: rgb(153, 89, 171);}
+
+
+
+.container{display: flex;}
+
+.container img{position: relative; height: 200px; width: 200px; margin-left: 903px; }
+
+
+/* .imgBox{position: relative; top: 0px; right: 90px; } */
+
+
+
+
+
+
+
+
